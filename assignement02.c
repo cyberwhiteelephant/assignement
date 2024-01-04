@@ -42,3 +42,21 @@ int main()
 
     return 0;
 }
+
+
+
+
+
+OutPut:-
+PS D:\College Program\Assignement> gcc assignement02.c
+PS D:\College Program\Assignement> .\a.exe
+Enter the size of the array: 5
+Enter the elements of the array:
+Element 1: 12
+Element 2: 23
+Element 3: 32
+Element 4: 43
+Element 5: 45
+Maximum element: 45
+Minimum element: 12
+
