@@ -61,3 +61,14 @@ int isPasswordValid(char *password)
 
     return 0;
 }
+
+
+
+
+Output:-
+PS D:\College Program\Assignement> gcc assignement01.c
+PS D:\College Program\Assignement> .\a.exe
+Enter the password: aneesh
+Password is invalid.
+
+    
