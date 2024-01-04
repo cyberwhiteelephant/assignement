@@ -79,3 +79,12 @@ int main()
 
     return 0;
 }
+
+
+
+
+Output:-
+PS D:\College Program\Assignement> gcc assignement03.c
+PS D:\College Program\Assignement> .\a.exe
+Enter the password: 8909878
+Password is not valid.
