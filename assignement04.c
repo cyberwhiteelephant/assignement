@@ -43,3 +43,20 @@ int main()
 
     return 0;
 }
+
+
+
+
+Output:-
+PS D:\College Program\Assignement> gcc assignement04.c
+PS D:\College Program\Assignement> .\a.exe
+Enter the size of the array: 5
+Enter 5 elements of the array:
+20
+09
+90
+87
+87
+Maximum element: 90
+Minimum element: 9
+
